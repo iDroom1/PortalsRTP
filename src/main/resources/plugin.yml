@@ -1,0 +1,13 @@
+name: PortalRTP
+version: 1.0
+main: org.idroom.portalrtp.PortalRTP
+api-version: 1.21
+commands:
+  setportal:
+    description: Set the portal area (where players walk in to teleport)
+    usage: /setportal
+    permission: portalrtp.set
+permissions:
+  portalrtp.set:
+    description: Allows setting the portal area
+    default: op
