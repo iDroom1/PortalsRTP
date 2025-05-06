@@ -37,9 +37,9 @@ PortalRTP is a unique, smooth, and intelligent Spigot plugin designed for Minecr
 - Walk into the portal ➜ Teleportation begins automatically using BetterRTP!
 
 ## 🛡️ Permissions
-Permission	                    Description
-portalrtp.setportal	            Allows use of the /setportal command
-portalrtp.use	                  Allows players to trigger RTP teleport
+Permission - Description
+portalrtp.setportal	- Allows use of the /setportal command
+portalrtp.use	- Allows players to trigger RTP teleport
 
 ## 🌍 Compatibility
 
